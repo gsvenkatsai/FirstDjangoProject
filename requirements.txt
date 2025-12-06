@@ -16,6 +16,7 @@ colorama==0.4.6
 ConfigArgParse==1.7.1
 cryptography==46.0.3
 defusedxml==0.7.1
+dj-database-url==3.0.1
 Django==5.2.7
 django-cors-headers==4.9.0
 django-debug-toolbar==6.0.0
@@ -38,6 +39,7 @@ gevent==25.9.1
 geventhttpclient==2.3.5
 gprof2dot==2025.4.14
 greenlet==3.3.0
+gunicorn==23.0.0
 h11==0.16.0
 humanize==4.14.0
 idna==3.11
@@ -52,6 +54,7 @@ model-bakery==1.20.5
 msgpack==1.1.2
 mysqlclient==2.2.7
 oauthlib==3.3.1
+packageA==4.0.0
 packaging==25.0
 pillow==12.0.0
 platformdirs==4.5.1
