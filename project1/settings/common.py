@@ -9,6 +9,7 @@ https://docs.djangoproject.com/en/5.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.2/ref/settings/
 """
+from logging import DEBUG
 import os
 from pathlib import Path
 from datetime import timedelta
@@ -68,8 +69,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-#if DEBUG:
-  #  MIDDLEWARE += ['silk.middleware.SilkyMiddleware']
+if DEBUG:
+   MIDDLEWARE += ['silk.middleware.SilkyMiddleware']
 ROOT_URLCONF = 'project1.urls'
 
 TEMPLATES = [
