@@ -71,3 +71,5 @@ requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 2025-12-06 19:49:33,216 (INFO) - django.utils.autoreload - /home/venkatsaigs/Projects/FirstProject3/store/migrations/0014_alter_cart_id_alter_cartitem_cart_and_more.py changed, reloading.
 2025-12-06 19:49:33,932 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
 2025-12-06 20:07:01,086 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-12-19 06:34:23,763 (INFO) - django.utils.autoreload - Watching for file changes with StatReloader
+2025-12-19 06:34:39,262 (WARNING) - django.request - Method Not Allowed: /store/carts/
