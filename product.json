@@ -1,0 +1,3127 @@
+[
+{
+  "model": "store.product",
+  "pk": 1,
+  "fields": {
+    "title": "4K TV",
+    "slug": "4k-tv-1",
+    "description": "Dummy description for 4K TV",
+    "unit_price": "1765.65",
+    "inventory": 287,
+    "last_update": "2025-11-24T17:24:11.708Z",
+    "collection": 1,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 2,
+  "fields": {
+    "title": "Bluetooth Speaker",
+    "slug": "bluetooth-speaker-2",
+    "description": "Dummy description for Bluetooth Speaker",
+    "unit_price": "1356.66",
+    "inventory": 401,
+    "last_update": "2025-11-24T17:24:11.708Z",
+    "collection": 1,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 3,
+  "fields": {
+    "title": "Wireless Earbuds",
+    "slug": "wireless-earbuds-3",
+    "description": "Dummy description for Wireless Earbuds",
+    "unit_price": "373.81",
+    "inventory": 95,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 4,
+  "fields": {
+    "title": "Soundbar",
+    "slug": "soundbar-4",
+    "description": "Dummy description for Soundbar",
+    "unit_price": "1573.71",
+    "inventory": 332,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 5,
+  "fields": {
+    "title": "Smartwatch",
+    "slug": "smartwatch-5",
+    "description": "Dummy description for Smartwatch",
+    "unit_price": "1187.68",
+    "inventory": 437,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 6,
+  "fields": {
+    "title": "DSLR Camera",
+    "slug": "dslr-camera-6",
+    "description": "Dummy description for DSLR Camera",
+    "unit_price": "899.16",
+    "inventory": 423,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      2,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 7,
+  "fields": {
+    "title": "Power Bank",
+    "slug": "power-bank-7",
+    "description": "Dummy description for Power Bank",
+    "unit_price": "613.27",
+    "inventory": 13,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      2,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 8,
+  "fields": {
+    "title": "Portable Projector",
+    "slug": "portable-projector-8",
+    "description": "Dummy description for Portable Projector",
+    "unit_price": "844.72",
+    "inventory": 207,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      1,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 9,
+  "fields": {
+    "title": "Smart Home Hub",
+    "slug": "smart-home-hub-9",
+    "description": "Dummy description for Smart Home Hub",
+    "unit_price": "1884.84",
+    "inventory": 439,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 10,
+  "fields": {
+    "title": "Drone",
+    "slug": "drone-10",
+    "description": "Dummy description for Drone",
+    "unit_price": "1983.00",
+    "inventory": 207,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 11,
+  "fields": {
+    "title": "Action Camera",
+    "slug": "action-camera-11",
+    "description": "Dummy description for Action Camera",
+    "unit_price": "1983.71",
+    "inventory": 392,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 12,
+  "fields": {
+    "title": "Bluetooth Headphones",
+    "slug": "bluetooth-headphones-12",
+    "description": "Dummy description for Bluetooth Headphones",
+    "unit_price": "595.63",
+    "inventory": 210,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      2,
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 13,
+  "fields": {
+    "title": "Home Theater",
+    "slug": "home-theater-13",
+    "description": "Dummy description for Home Theater",
+    "unit_price": "196.39",
+    "inventory": 220,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 14,
+  "fields": {
+    "title": "Gaming Console",
+    "slug": "gaming-console-14",
+    "description": "Dummy description for Gaming Console",
+    "unit_price": "1519.15",
+    "inventory": 184,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 15,
+  "fields": {
+    "title": "VR Headset",
+    "slug": "vr-headset-15",
+    "description": "Dummy description for VR Headset",
+    "unit_price": "1825.61",
+    "inventory": 154,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 16,
+  "fields": {
+    "title": "Smart Light",
+    "slug": "smart-light-16",
+    "description": "Dummy description for Smart Light",
+    "unit_price": "331.75",
+    "inventory": 425,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      2,
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 17,
+  "fields": {
+    "title": "Fitness Tracker",
+    "slug": "fitness-tracker-17",
+    "description": "Dummy description for Fitness Tracker",
+    "unit_price": "356.98",
+    "inventory": 36,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 18,
+  "fields": {
+    "title": "Security Camera",
+    "slug": "security-camera-18",
+    "description": "Dummy description for Security Camera",
+    "unit_price": "1650.01",
+    "inventory": 69,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 19,
+  "fields": {
+    "title": "Electric Scooter",
+    "slug": "electric-scooter-19",
+    "description": "Dummy description for Electric Scooter",
+    "unit_price": "617.98",
+    "inventory": 348,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 20,
+  "fields": {
+    "title": "Streaming Device",
+    "slug": "streaming-device-20",
+    "description": "Dummy description for Streaming Device",
+    "unit_price": "1476.96",
+    "inventory": 17,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 1,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 21,
+  "fields": {
+    "title": "iPhone 15 Pro",
+    "slug": "iphone-15-pro-21",
+    "description": "Dummy description for iPhone 15 Pro",
+    "unit_price": "1918.07",
+    "inventory": 159,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 22,
+  "fields": {
+    "title": "Samsung Galaxy S24",
+    "slug": "samsung-galaxy-s24-22",
+    "description": "Dummy description for Samsung Galaxy S24",
+    "unit_price": "484.69",
+    "inventory": 473,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 23,
+  "fields": {
+    "title": "Google Pixel 8",
+    "slug": "google-pixel-8-23",
+    "description": "Dummy description for Google Pixel 8",
+    "unit_price": "1561.78",
+    "inventory": 410,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 24,
+  "fields": {
+    "title": "OnePlus 12",
+    "slug": "oneplus-12-24",
+    "description": "Dummy description for OnePlus 12",
+    "unit_price": "1066.98",
+    "inventory": 402,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 25,
+  "fields": {
+    "title": "Xiaomi 14",
+    "slug": "xiaomi-14-25",
+    "description": "Dummy description for Xiaomi 14",
+    "unit_price": "789.59",
+    "inventory": 145,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 26,
+  "fields": {
+    "title": "Asus ROG Phone 8",
+    "slug": "asus-rog-phone-8-26",
+    "description": "Dummy description for Asus ROG Phone 8",
+    "unit_price": "1417.21",
+    "inventory": 72,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 27,
+  "fields": {
+    "title": "Nothing Phone 2",
+    "slug": "nothing-phone-2-27",
+    "description": "Dummy description for Nothing Phone 2",
+    "unit_price": "1762.39",
+    "inventory": 269,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      1
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 28,
+  "fields": {
+    "title": "Motorola Edge 40",
+    "slug": "motorola-edge-40-28",
+    "description": "Dummy description for Motorola Edge 40",
+    "unit_price": "310.00",
+    "inventory": 355,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 29,
+  "fields": {
+    "title": "Sony Xperia 5",
+    "slug": "sony-xperia-5-29",
+    "description": "Dummy description for Sony Xperia 5",
+    "unit_price": "1285.01",
+    "inventory": 311,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 30,
+  "fields": {
+    "title": "Oppo Find X6",
+    "slug": "oppo-find-x6-30",
+    "description": "Dummy description for Oppo Find X6",
+    "unit_price": "510.42",
+    "inventory": 495,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 31,
+  "fields": {
+    "title": "Vivo X100",
+    "slug": "vivo-x100-31",
+    "description": "Dummy description for Vivo X100",
+    "unit_price": "748.66",
+    "inventory": 149,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 32,
+  "fields": {
+    "title": "Realme GT 5",
+    "slug": "realme-gt-5-32",
+    "description": "Dummy description for Realme GT 5",
+    "unit_price": "58.00",
+    "inventory": 458,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 33,
+  "fields": {
+    "title": "Honor Magic 5",
+    "slug": "honor-magic-5-33",
+    "description": "Dummy description for Honor Magic 5",
+    "unit_price": "843.36",
+    "inventory": 389,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 34,
+  "fields": {
+    "title": "Redmi Note 13",
+    "slug": "redmi-note-13-34",
+    "description": "Dummy description for Redmi Note 13",
+    "unit_price": "1200.23",
+    "inventory": 233,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 35,
+  "fields": {
+    "title": "Samsung A55",
+    "slug": "samsung-a55-35",
+    "description": "Dummy description for Samsung A55",
+    "unit_price": "1384.06",
+    "inventory": 160,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 36,
+  "fields": {
+    "title": "iPhone SE",
+    "slug": "iphone-se-36",
+    "description": "Dummy description for iPhone SE",
+    "unit_price": "107.27",
+    "inventory": 457,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 37,
+  "fields": {
+    "title": "Google Pixel 8a",
+    "slug": "google-pixel-8a-37",
+    "description": "Dummy description for Google Pixel 8a",
+    "unit_price": "505.09",
+    "inventory": 454,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 38,
+  "fields": {
+    "title": "OnePlus Nord 3",
+    "slug": "oneplus-nord-3-38",
+    "description": "Dummy description for OnePlus Nord 3",
+    "unit_price": "1150.58",
+    "inventory": 359,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 39,
+  "fields": {
+    "title": "Xiaomi 13T",
+    "slug": "xiaomi-13t-39",
+    "description": "Dummy description for Xiaomi 13T",
+    "unit_price": "1136.05",
+    "inventory": 302,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": [
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 40,
+  "fields": {
+    "title": "Huawei P60",
+    "slug": "huawei-p60-40",
+    "description": "Dummy description for Huawei P60",
+    "unit_price": "1764.10",
+    "inventory": 485,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 2,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 41,
+  "fields": {
+    "title": "MacBook Pro 16",
+    "slug": "macbook-pro-16-41",
+    "description": "Dummy description for MacBook Pro 16",
+    "unit_price": "1394.75",
+    "inventory": 51,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 42,
+  "fields": {
+    "title": "Dell XPS 15",
+    "slug": "dell-xps-15-42",
+    "description": "Dummy description for Dell XPS 15",
+    "unit_price": "1641.73",
+    "inventory": 162,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 43,
+  "fields": {
+    "title": "HP Spectre x360",
+    "slug": "hp-spectre-x360-43",
+    "description": "Dummy description for HP Spectre x360",
+    "unit_price": "1481.32",
+    "inventory": 25,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 44,
+  "fields": {
+    "title": "Lenovo ThinkPad X1",
+    "slug": "lenovo-thinkpad-x1-44",
+    "description": "Dummy description for Lenovo ThinkPad X1",
+    "unit_price": "312.66",
+    "inventory": 185,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 45,
+  "fields": {
+    "title": "Asus ZenBook",
+    "slug": "asus-zenbook-45",
+    "description": "Dummy description for Asus ZenBook",
+    "unit_price": "324.67",
+    "inventory": 49,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 46,
+  "fields": {
+    "title": "Acer Predator Helios",
+    "slug": "acer-predator-helios-46",
+    "description": "Dummy description for Acer Predator Helios",
+    "unit_price": "986.80",
+    "inventory": 199,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 47,
+  "fields": {
+    "title": "Razer Blade 15",
+    "slug": "razer-blade-15-47",
+    "description": "Dummy description for Razer Blade 15",
+    "unit_price": "761.09",
+    "inventory": 416,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 48,
+  "fields": {
+    "title": "Microsoft Surface Laptop 5",
+    "slug": "microsoft-surface-laptop-5-48",
+    "description": "Dummy description for Microsoft Surface Laptop 5",
+    "unit_price": "1775.24",
+    "inventory": 276,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 49,
+  "fields": {
+    "title": "LG Gram 17",
+    "slug": "lg-gram-17-49",
+    "description": "Dummy description for LG Gram 17",
+    "unit_price": "1203.42",
+    "inventory": 48,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 50,
+  "fields": {
+    "title": "MSI Stealth 14",
+    "slug": "msi-stealth-14-50",
+    "description": "Dummy description for MSI Stealth 14",
+    "unit_price": "367.85",
+    "inventory": 253,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 51,
+  "fields": {
+    "title": "MacBook Air M3",
+    "slug": "macbook-air-m3-51",
+    "description": "Dummy description for MacBook Air M3",
+    "unit_price": "1057.70",
+    "inventory": 159,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      1,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 52,
+  "fields": {
+    "title": "HP Envy 14",
+    "slug": "hp-envy-14-52",
+    "description": "Dummy description for HP Envy 14",
+    "unit_price": "1342.64",
+    "inventory": 458,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 53,
+  "fields": {
+    "title": "Acer Swift 5",
+    "slug": "acer-swift-5-53",
+    "description": "Dummy description for Acer Swift 5",
+    "unit_price": "1810.10",
+    "inventory": 267,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 54,
+  "fields": {
+    "title": "Lenovo Legion 7",
+    "slug": "lenovo-legion-7-54",
+    "description": "Dummy description for Lenovo Legion 7",
+    "unit_price": "999.44",
+    "inventory": 331,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 55,
+  "fields": {
+    "title": "Asus TUF A15",
+    "slug": "asus-tuf-a15-55",
+    "description": "Dummy description for Asus TUF A15",
+    "unit_price": "334.30",
+    "inventory": 89,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 56,
+  "fields": {
+    "title": "Dell G16",
+    "slug": "dell-g16-56",
+    "description": "Dummy description for Dell G16",
+    "unit_price": "1027.78",
+    "inventory": 45,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 57,
+  "fields": {
+    "title": "MSI Creator Z16",
+    "slug": "msi-creator-z16-57",
+    "description": "Dummy description for MSI Creator Z16",
+    "unit_price": "806.69",
+    "inventory": 149,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      1
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 58,
+  "fields": {
+    "title": "Framework Laptop",
+    "slug": "framework-laptop-58",
+    "description": "Dummy description for Framework Laptop",
+    "unit_price": "495.36",
+    "inventory": 466,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 59,
+  "fields": {
+    "title": "Gigabyte Aero 16",
+    "slug": "gigabyte-aero-16-59",
+    "description": "Dummy description for Gigabyte Aero 16",
+    "unit_price": "1950.03",
+    "inventory": 281,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 60,
+  "fields": {
+    "title": "Huawei MateBook X Pro",
+    "slug": "huawei-matebook-x-pro-60",
+    "description": "Dummy description for Huawei MateBook X Pro",
+    "unit_price": "1775.80",
+    "inventory": 56,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 3,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 61,
+  "fields": {
+    "title": "iPad Pro 12.9",
+    "slug": "ipad-pro-129-61",
+    "description": "Dummy description for iPad Pro 12.9",
+    "unit_price": "1354.29",
+    "inventory": 21,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 62,
+  "fields": {
+    "title": "Samsung Galaxy Tab S9",
+    "slug": "samsung-galaxy-tab-s9-62",
+    "description": "Dummy description for Samsung Galaxy Tab S9",
+    "unit_price": "1405.46",
+    "inventory": 204,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 63,
+  "fields": {
+    "title": "Xiaomi Pad 6",
+    "slug": "xiaomi-pad-6-63",
+    "description": "Dummy description for Xiaomi Pad 6",
+    "unit_price": "1307.67",
+    "inventory": 163,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 64,
+  "fields": {
+    "title": "Lenovo Tab P12 Pro",
+    "slug": "lenovo-tab-p12-pro-64",
+    "description": "Dummy description for Lenovo Tab P12 Pro",
+    "unit_price": "1436.45",
+    "inventory": 146,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 65,
+  "fields": {
+    "title": "Microsoft Surface Pro 9",
+    "slug": "microsoft-surface-pro-9-65",
+    "description": "Dummy description for Microsoft Surface Pro 9",
+    "unit_price": "121.56",
+    "inventory": 309,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 66,
+  "fields": {
+    "title": "Huawei MatePad Pro",
+    "slug": "huawei-matepad-pro-66",
+    "description": "Dummy description for Huawei MatePad Pro",
+    "unit_price": "1418.50",
+    "inventory": 426,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 67,
+  "fields": {
+    "title": "Amazon Fire HD 10",
+    "slug": "amazon-fire-hd-10-67",
+    "description": "Dummy description for Amazon Fire HD 10",
+    "unit_price": "1659.71",
+    "inventory": 497,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": [
+      1,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 68,
+  "fields": {
+    "title": "Realme Pad 2",
+    "slug": "realme-pad-2-68",
+    "description": "Dummy description for Realme Pad 2",
+    "unit_price": "992.50",
+    "inventory": 271,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": [
+      4,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 69,
+  "fields": {
+    "title": "OnePlus Pad",
+    "slug": "oneplus-pad-69",
+    "description": "Dummy description for OnePlus Pad",
+    "unit_price": "1902.84",
+    "inventory": 384,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 70,
+  "fields": {
+    "title": "Oppo Pad Air",
+    "slug": "oppo-pad-air-70",
+    "description": "Dummy description for Oppo Pad Air",
+    "unit_price": "1486.35",
+    "inventory": 232,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": [
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 71,
+  "fields": {
+    "title": "iPad Air 5",
+    "slug": "ipad-air-5-71",
+    "description": "Dummy description for iPad Air 5",
+    "unit_price": "1227.06",
+    "inventory": 15,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 72,
+  "fields": {
+    "title": "Lenovo Yoga Tab 13",
+    "slug": "lenovo-yoga-tab-13-72",
+    "description": "Dummy description for Lenovo Yoga Tab 13",
+    "unit_price": "1677.04",
+    "inventory": 418,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 73,
+  "fields": {
+    "title": "Honor Pad 8",
+    "slug": "honor-pad-8-73",
+    "description": "Dummy description for Honor Pad 8",
+    "unit_price": "1121.86",
+    "inventory": 390,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 74,
+  "fields": {
+    "title": "TCL Tab 10",
+    "slug": "tcl-tab-10-74",
+    "description": "Dummy description for TCL Tab 10",
+    "unit_price": "599.26",
+    "inventory": 244,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 75,
+  "fields": {
+    "title": "Samsung Tab A9",
+    "slug": "samsung-tab-a9-75",
+    "description": "Dummy description for Samsung Tab A9",
+    "unit_price": "1382.25",
+    "inventory": 391,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 76,
+  "fields": {
+    "title": "Xiaomi Pad SE",
+    "slug": "xiaomi-pad-se-76",
+    "description": "Dummy description for Xiaomi Pad SE",
+    "unit_price": "64.70",
+    "inventory": 106,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 77,
+  "fields": {
+    "title": "iPad Mini 6",
+    "slug": "ipad-mini-6-77",
+    "description": "Dummy description for iPad Mini 6",
+    "unit_price": "205.08",
+    "inventory": 417,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 78,
+  "fields": {
+    "title": "Teclast M50",
+    "slug": "teclast-m50-78",
+    "description": "Dummy description for Teclast M50",
+    "unit_price": "1421.00",
+    "inventory": 214,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": [
+      1
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 79,
+  "fields": {
+    "title": "Chuwi Hi10",
+    "slug": "chuwi-hi10-79",
+    "description": "Dummy description for Chuwi Hi10",
+    "unit_price": "865.95",
+    "inventory": 368,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 80,
+  "fields": {
+    "title": "Alldocube iPlay 50",
+    "slug": "alldocube-iplay-50-80",
+    "description": "Dummy description for Alldocube iPlay 50",
+    "unit_price": "1031.73",
+    "inventory": 500,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 4,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 81,
+  "fields": {
+    "title": "Wireless Charger",
+    "slug": "wireless-charger-81",
+    "description": "Dummy description for Wireless Charger",
+    "unit_price": "645.86",
+    "inventory": 81,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 82,
+  "fields": {
+    "title": "USB-C Cable",
+    "slug": "usb-c-cable-82",
+    "description": "Dummy description for USB-C Cable",
+    "unit_price": "611.20",
+    "inventory": 449,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 83,
+  "fields": {
+    "title": "Laptop Stand",
+    "slug": "laptop-stand-83",
+    "description": "Dummy description for Laptop Stand",
+    "unit_price": "1906.36",
+    "inventory": 399,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 84,
+  "fields": {
+    "title": "Portable SSD",
+    "slug": "portable-ssd-84",
+    "description": "Dummy description for Portable SSD",
+    "unit_price": "227.91",
+    "inventory": 55,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 85,
+  "fields": {
+    "title": "Webcam",
+    "slug": "webcam-85",
+    "description": "Dummy description for Webcam",
+    "unit_price": "144.71",
+    "inventory": 300,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 86,
+  "fields": {
+    "title": "Wireless Mouse",
+    "slug": "wireless-mouse-86",
+    "description": "Dummy description for Wireless Mouse",
+    "unit_price": "1624.40",
+    "inventory": 83,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 87,
+  "fields": {
+    "title": "Mechanical Keyboard",
+    "slug": "mechanical-keyboard-87",
+    "description": "Dummy description for Mechanical Keyboard",
+    "unit_price": "378.59",
+    "inventory": 208,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      4,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 88,
+  "fields": {
+    "title": "Phone Case",
+    "slug": "phone-case-88",
+    "description": "Dummy description for Phone Case",
+    "unit_price": "1185.22",
+    "inventory": 37,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 89,
+  "fields": {
+    "title": "Tablet Cover",
+    "slug": "tablet-cover-89",
+    "description": "Dummy description for Tablet Cover",
+    "unit_price": "91.03",
+    "inventory": 319,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 90,
+  "fields": {
+    "title": "Stylus Pen",
+    "slug": "stylus-pen-90",
+    "description": "Dummy description for Stylus Pen",
+    "unit_price": "759.82",
+    "inventory": 202,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 91,
+  "fields": {
+    "title": "Gaming Headset",
+    "slug": "gaming-headset-91",
+    "description": "Dummy description for Gaming Headset",
+    "unit_price": "1015.89",
+    "inventory": 223,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 92,
+  "fields": {
+    "title": "Smart Plug",
+    "slug": "smart-plug-92",
+    "description": "Dummy description for Smart Plug",
+    "unit_price": "1319.88",
+    "inventory": 300,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 93,
+  "fields": {
+    "title": "Screen Protector",
+    "slug": "screen-protector-93",
+    "description": "Dummy description for Screen Protector",
+    "unit_price": "1611.96",
+    "inventory": 268,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 94,
+  "fields": {
+    "title": "Bluetooth Adapter",
+    "slug": "bluetooth-adapter-94",
+    "description": "Dummy description for Bluetooth Adapter",
+    "unit_price": "1094.60",
+    "inventory": 25,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 95,
+  "fields": {
+    "title": "Tripod Stand",
+    "slug": "tripod-stand-95",
+    "description": "Dummy description for Tripod Stand",
+    "unit_price": "389.64",
+    "inventory": 354,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 96,
+  "fields": {
+    "title": "Car Mount",
+    "slug": "car-mount-96",
+    "description": "Dummy description for Car Mount",
+    "unit_price": "1741.41",
+    "inventory": 171,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 97,
+  "fields": {
+    "title": "LED Desk Lamp",
+    "slug": "led-desk-lamp-97",
+    "description": "Dummy description for LED Desk Lamp",
+    "unit_price": "198.19",
+    "inventory": 100,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      1
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 98,
+  "fields": {
+    "title": "Memory Card",
+    "slug": "memory-card-98",
+    "description": "Dummy description for Memory Card",
+    "unit_price": "1329.03",
+    "inventory": 436,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": [
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 99,
+  "fields": {
+    "title": "External HDD",
+    "slug": "external-hdd-99",
+    "description": "Dummy description for External HDD",
+    "unit_price": "1784.26",
+    "inventory": 268,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 100,
+  "fields": {
+    "title": "Wireless Router",
+    "slug": "wireless-router-100",
+    "description": "Dummy description for Wireless Router",
+    "unit_price": "401.70",
+    "inventory": 362,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 5,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 101,
+  "fields": {
+    "title": "Air Conditioner",
+    "slug": "air-conditioner-101",
+    "description": "Dummy description for Air Conditioner",
+    "unit_price": "531.32",
+    "inventory": 480,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      1,
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 102,
+  "fields": {
+    "title": "Washing Machine",
+    "slug": "washing-machine-102",
+    "description": "Dummy description for Washing Machine",
+    "unit_price": "192.58",
+    "inventory": 146,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 103,
+  "fields": {
+    "title": "Refrigerator",
+    "slug": "refrigerator-103",
+    "description": "Dummy description for Refrigerator",
+    "unit_price": "365.44",
+    "inventory": 1,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 104,
+  "fields": {
+    "title": "Microwave Oven",
+    "slug": "microwave-oven-104",
+    "description": "Dummy description for Microwave Oven",
+    "unit_price": "593.08",
+    "inventory": 386,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 105,
+  "fields": {
+    "title": "Air Purifier",
+    "slug": "air-purifier-105",
+    "description": "Dummy description for Air Purifier",
+    "unit_price": "462.48",
+    "inventory": 284,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 106,
+  "fields": {
+    "title": "Coffee Maker",
+    "slug": "coffee-maker-106",
+    "description": "Dummy description for Coffee Maker",
+    "unit_price": "1917.92",
+    "inventory": 493,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 107,
+  "fields": {
+    "title": "Vacuum Cleaner",
+    "slug": "vacuum-cleaner-107",
+    "description": "Dummy description for Vacuum Cleaner",
+    "unit_price": "310.24",
+    "inventory": 1,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      4,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 108,
+  "fields": {
+    "title": "Dishwasher",
+    "slug": "dishwasher-108",
+    "description": "Dummy description for Dishwasher",
+    "unit_price": "309.12",
+    "inventory": 252,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 109,
+  "fields": {
+    "title": "Water Heater",
+    "slug": "water-heater-109",
+    "description": "Dummy description for Water Heater",
+    "unit_price": "1356.18",
+    "inventory": 245,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 110,
+  "fields": {
+    "title": "Blender",
+    "slug": "blender-110",
+    "description": "Dummy description for Blender",
+    "unit_price": "1553.15",
+    "inventory": 300,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 111,
+  "fields": {
+    "title": "Induction Cooktop",
+    "slug": "induction-cooktop-111",
+    "description": "Dummy description for Induction Cooktop",
+    "unit_price": "166.91",
+    "inventory": 181,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 112,
+  "fields": {
+    "title": "Rice Cooker",
+    "slug": "rice-cooker-112",
+    "description": "Dummy description for Rice Cooker",
+    "unit_price": "1153.99",
+    "inventory": 332,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      3,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 113,
+  "fields": {
+    "title": "Toaster",
+    "slug": "toaster-113",
+    "description": "Dummy description for Toaster",
+    "unit_price": "304.70",
+    "inventory": 100,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 114,
+  "fields": {
+    "title": "Electric Kettle",
+    "slug": "electric-kettle-114",
+    "description": "Dummy description for Electric Kettle",
+    "unit_price": "53.34",
+    "inventory": 176,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 115,
+  "fields": {
+    "title": "Hair Dryer",
+    "slug": "hair-dryer-115",
+    "description": "Dummy description for Hair Dryer",
+    "unit_price": "281.60",
+    "inventory": 65,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 116,
+  "fields": {
+    "title": "Iron Box",
+    "slug": "iron-box-116",
+    "description": "Dummy description for Iron Box",
+    "unit_price": "98.01",
+    "inventory": 434,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 117,
+  "fields": {
+    "title": "Mixer Grinder",
+    "slug": "mixer-grinder-117",
+    "description": "Dummy description for Mixer Grinder",
+    "unit_price": "1690.93",
+    "inventory": 20,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 118,
+  "fields": {
+    "title": "Ceiling Fan",
+    "slug": "ceiling-fan-118",
+    "description": "Dummy description for Ceiling Fan",
+    "unit_price": "1849.69",
+    "inventory": 402,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 119,
+  "fields": {
+    "title": "Juicer",
+    "slug": "juicer-119",
+    "description": "Dummy description for Juicer",
+    "unit_price": "1845.18",
+    "inventory": 226,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 6,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 120,
+  "fields": {
+    "title": "Men's T-Shirt",
+    "slug": "mens-t-shirt-120",
+    "description": "Dummy description for Men's T-Shirt",
+    "unit_price": "1054.05",
+    "inventory": 226,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 7,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 121,
+  "fields": {
+    "title": "Women's Dress",
+    "slug": "womens-dress-121",
+    "description": "Dummy description for Women's Dress",
+    "unit_price": "1391.24",
+    "inventory": 324,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 7,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 122,
+  "fields": {
+    "title": "Jeans",
+    "slug": "jeans-122",
+    "description": "Dummy description for Jeans",
+    "unit_price": "175.52",
+    "inventory": 387,
+    "last_update": "2025-11-24T17:24:11.709Z",
+    "collection": 7,
+    "promotions": [
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 123,
+  "fields": {
+    "title": "Formal Shirt",
+    "slug": "formal-shirt-123",
+    "description": "Dummy description for Formal Shirt",
+    "unit_price": "961.83",
+    "inventory": 499,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 124,
+  "fields": {
+    "title": "Jacket",
+    "slug": "jacket-124",
+    "description": "Dummy description for Jacket",
+    "unit_price": "1447.91",
+    "inventory": 382,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      5,
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 125,
+  "fields": {
+    "title": "Sweatshirt",
+    "slug": "sweatshirt-125",
+    "description": "Dummy description for Sweatshirt",
+    "unit_price": "1140.71",
+    "inventory": 337,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 126,
+  "fields": {
+    "title": "Hoodie",
+    "slug": "hoodie-126",
+    "description": "Dummy description for Hoodie",
+    "unit_price": "340.27",
+    "inventory": 210,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 127,
+  "fields": {
+    "title": "Shorts",
+    "slug": "shorts-127",
+    "description": "Dummy description for Shorts",
+    "unit_price": "1190.17",
+    "inventory": 472,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 128,
+  "fields": {
+    "title": "Skirt",
+    "slug": "skirt-128",
+    "description": "Dummy description for Skirt",
+    "unit_price": "1158.15",
+    "inventory": 150,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 129,
+  "fields": {
+    "title": "Kurta",
+    "slug": "kurta-129",
+    "description": "Dummy description for Kurta",
+    "unit_price": "1278.58",
+    "inventory": 58,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 130,
+  "fields": {
+    "title": "Saree",
+    "slug": "saree-130",
+    "description": "Dummy description for Saree",
+    "unit_price": "1127.80",
+    "inventory": 215,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 131,
+  "fields": {
+    "title": "Tracksuit",
+    "slug": "tracksuit-131",
+    "description": "Dummy description for Tracksuit",
+    "unit_price": "1993.72",
+    "inventory": 251,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 132,
+  "fields": {
+    "title": "Blazer",
+    "slug": "blazer-132",
+    "description": "Dummy description for Blazer",
+    "unit_price": "507.06",
+    "inventory": 25,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 133,
+  "fields": {
+    "title": "Suit",
+    "slug": "suit-133",
+    "description": "Dummy description for Suit",
+    "unit_price": "1802.29",
+    "inventory": 471,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      1
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 134,
+  "fields": {
+    "title": "Crop Top",
+    "slug": "crop-top-134",
+    "description": "Dummy description for Crop Top",
+    "unit_price": "1123.58",
+    "inventory": 434,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 135,
+  "fields": {
+    "title": "Leggings",
+    "slug": "leggings-135",
+    "description": "Dummy description for Leggings",
+    "unit_price": "1866.58",
+    "inventory": 166,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 136,
+  "fields": {
+    "title": "Sweater",
+    "slug": "sweater-136",
+    "description": "Dummy description for Sweater",
+    "unit_price": "850.56",
+    "inventory": 8,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 137,
+  "fields": {
+    "title": "Coat",
+    "slug": "coat-137",
+    "description": "Dummy description for Coat",
+    "unit_price": "1791.33",
+    "inventory": 381,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 138,
+  "fields": {
+    "title": "Scarf",
+    "slug": "scarf-138",
+    "description": "Dummy description for Scarf",
+    "unit_price": "218.32",
+    "inventory": 27,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 139,
+  "fields": {
+    "title": "Polo Shirt",
+    "slug": "polo-shirt-139",
+    "description": "Dummy description for Polo Shirt",
+    "unit_price": "1511.96",
+    "inventory": 402,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 7,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 140,
+  "fields": {
+    "title": "Running Shoes",
+    "slug": "running-shoes-140",
+    "description": "Dummy description for Running Shoes",
+    "unit_price": "1607.15",
+    "inventory": 43,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 141,
+  "fields": {
+    "title": "Sneakers",
+    "slug": "sneakers-141",
+    "description": "Dummy description for Sneakers",
+    "unit_price": "388.32",
+    "inventory": 459,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 142,
+  "fields": {
+    "title": "Loafers",
+    "slug": "loafers-142",
+    "description": "Dummy description for Loafers",
+    "unit_price": "788.99",
+    "inventory": 394,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      3,
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 143,
+  "fields": {
+    "title": "Formal Shoes",
+    "slug": "formal-shoes-143",
+    "description": "Dummy description for Formal Shoes",
+    "unit_price": "327.85",
+    "inventory": 106,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 144,
+  "fields": {
+    "title": "Sandals",
+    "slug": "sandals-144",
+    "description": "Dummy description for Sandals",
+    "unit_price": "292.26",
+    "inventory": 411,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 145,
+  "fields": {
+    "title": "Flip Flops",
+    "slug": "flip-flops-145",
+    "description": "Dummy description for Flip Flops",
+    "unit_price": "564.22",
+    "inventory": 131,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 146,
+  "fields": {
+    "title": "Boots",
+    "slug": "boots-146",
+    "description": "Dummy description for Boots",
+    "unit_price": "274.30",
+    "inventory": 493,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 147,
+  "fields": {
+    "title": "Heels",
+    "slug": "heels-147",
+    "description": "Dummy description for Heels",
+    "unit_price": "1565.65",
+    "inventory": 136,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 148,
+  "fields": {
+    "title": "Slippers",
+    "slug": "slippers-148",
+    "description": "Dummy description for Slippers",
+    "unit_price": "661.02",
+    "inventory": 90,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 149,
+  "fields": {
+    "title": "Crocs",
+    "slug": "crocs-149",
+    "description": "Dummy description for Crocs",
+    "unit_price": "1256.38",
+    "inventory": 331,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 150,
+  "fields": {
+    "title": "Sports Shoes",
+    "slug": "sports-shoes-150",
+    "description": "Dummy description for Sports Shoes",
+    "unit_price": "598.28",
+    "inventory": 81,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 151,
+  "fields": {
+    "title": "Casual Shoes",
+    "slug": "casual-shoes-151",
+    "description": "Dummy description for Casual Shoes",
+    "unit_price": "203.92",
+    "inventory": 429,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      1,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 152,
+  "fields": {
+    "title": "Ankle Boots",
+    "slug": "ankle-boots-152",
+    "description": "Dummy description for Ankle Boots",
+    "unit_price": "1501.19",
+    "inventory": 311,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 153,
+  "fields": {
+    "title": "Ballet Flats",
+    "slug": "ballet-flats-153",
+    "description": "Dummy description for Ballet Flats",
+    "unit_price": "952.47",
+    "inventory": 423,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 154,
+  "fields": {
+    "title": "Clogs",
+    "slug": "clogs-154",
+    "description": "Dummy description for Clogs",
+    "unit_price": "1965.33",
+    "inventory": 453,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 155,
+  "fields": {
+    "title": "Dress Shoes",
+    "slug": "dress-shoes-155",
+    "description": "Dummy description for Dress Shoes",
+    "unit_price": "1811.60",
+    "inventory": 350,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 156,
+  "fields": {
+    "title": "Trail Running Shoes",
+    "slug": "trail-running-shoes-156",
+    "description": "Dummy description for Trail Running Shoes",
+    "unit_price": "1824.72",
+    "inventory": 412,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 157,
+  "fields": {
+    "title": "Leather Boots",
+    "slug": "leather-boots-157",
+    "description": "Dummy description for Leather Boots",
+    "unit_price": "1566.22",
+    "inventory": 14,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 158,
+  "fields": {
+    "title": "Slides",
+    "slug": "slides-158",
+    "description": "Dummy description for Slides",
+    "unit_price": "639.63",
+    "inventory": 192,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 159,
+  "fields": {
+    "title": "Moccasins",
+    "slug": "moccasins-159",
+    "description": "Dummy description for Moccasins",
+    "unit_price": "1989.80",
+    "inventory": 493,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 8,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 160,
+  "fields": {
+    "title": "The Alchemist",
+    "slug": "the-alchemist-160",
+    "description": "Dummy description for The Alchemist",
+    "unit_price": "1362.06",
+    "inventory": 379,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      6
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 161,
+  "fields": {
+    "title": "Atomic Habits",
+    "slug": "atomic-habits-161",
+    "description": "Dummy description for Atomic Habits",
+    "unit_price": "1275.18",
+    "inventory": 464,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 162,
+  "fields": {
+    "title": "Sapiens",
+    "slug": "sapiens-162",
+    "description": "Dummy description for Sapiens",
+    "unit_price": "1149.91",
+    "inventory": 409,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 163,
+  "fields": {
+    "title": "The 48 Laws of Power",
+    "slug": "the-48-laws-of-power-163",
+    "description": "Dummy description for The 48 Laws of Power",
+    "unit_price": "1930.78",
+    "inventory": 273,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      1
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 164,
+  "fields": {
+    "title": "The Psychology of Money",
+    "slug": "the-psychology-of-money-164",
+    "description": "Dummy description for The Psychology of Money",
+    "unit_price": "1543.55",
+    "inventory": 173,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 165,
+  "fields": {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "slug": "the-subtle-art-of-not-giving-a-fck-165",
+    "description": "Dummy description for The Subtle Art of Not Giving a F*ck",
+    "unit_price": "303.66",
+    "inventory": 182,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 166,
+  "fields": {
+    "title": "Rich Dad Poor Dad",
+    "slug": "rich-dad-poor-dad-166",
+    "description": "Dummy description for Rich Dad Poor Dad",
+    "unit_price": "837.76",
+    "inventory": 491,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      1,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 167,
+  "fields": {
+    "title": "Think and Grow Rich",
+    "slug": "think-and-grow-rich-167",
+    "description": "Dummy description for Think and Grow Rich",
+    "unit_price": "1630.80",
+    "inventory": 478,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 168,
+  "fields": {
+    "title": "Educated",
+    "slug": "educated-168",
+    "description": "Dummy description for Educated",
+    "unit_price": "1813.33",
+    "inventory": 193,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 169,
+  "fields": {
+    "title": "Becoming",
+    "slug": "becoming-169",
+    "description": "Dummy description for Becoming",
+    "unit_price": "1360.27",
+    "inventory": 307,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 170,
+  "fields": {
+    "title": "The Silent Patient",
+    "slug": "the-silent-patient-170",
+    "description": "Dummy description for The Silent Patient",
+    "unit_price": "464.28",
+    "inventory": 14,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      3,
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 171,
+  "fields": {
+    "title": "The Midnight Library",
+    "slug": "the-midnight-library-171",
+    "description": "Dummy description for The Midnight Library",
+    "unit_price": "832.16",
+    "inventory": 363,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 172,
+  "fields": {
+    "title": "Ikigai",
+    "slug": "ikigai-172",
+    "description": "Dummy description for Ikigai",
+    "unit_price": "874.15",
+    "inventory": 36,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 173,
+  "fields": {
+    "title": "Can't Hurt Me",
+    "slug": "cant-hurt-me-173",
+    "description": "Dummy description for Can't Hurt Me",
+    "unit_price": "1990.50",
+    "inventory": 455,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 174,
+  "fields": {
+    "title": "1984",
+    "slug": "1984-174",
+    "description": "Dummy description for 1984",
+    "unit_price": "496.63",
+    "inventory": 17,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 175,
+  "fields": {
+    "title": "Dune",
+    "slug": "dune-175",
+    "description": "Dummy description for Dune",
+    "unit_price": "1331.55",
+    "inventory": 161,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 176,
+  "fields": {
+    "title": "Harry Potter and the SorcererÆs Stone",
+    "slug": "harry-potter-and-the-sorcerers-stone-176",
+    "description": "Dummy description for Harry Potter and the SorcererÆs Stone",
+    "unit_price": "1987.77",
+    "inventory": 369,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 177,
+  "fields": {
+    "title": "To Kill a Mockingbird",
+    "slug": "to-kill-a-mockingbird-177",
+    "description": "Dummy description for To Kill a Mockingbird",
+    "unit_price": "131.34",
+    "inventory": 484,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 178,
+  "fields": {
+    "title": "The Hobbit",
+    "slug": "the-hobbit-178",
+    "description": "Dummy description for The Hobbit",
+    "unit_price": "632.11",
+    "inventory": 83,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 179,
+  "fields": {
+    "title": "Pride and Prejudice",
+    "slug": "pride-and-prejudice-179",
+    "description": "Dummy description for Pride and Prejudice",
+    "unit_price": "116.32",
+    "inventory": 367,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 9,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 180,
+  "fields": {
+    "title": "Yoga Mat",
+    "slug": "yoga-mat-180",
+    "description": "Dummy description for Yoga Mat",
+    "unit_price": "1083.47",
+    "inventory": 408,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 181,
+  "fields": {
+    "title": "Dumbbell Set",
+    "slug": "dumbbell-set-181",
+    "description": "Dummy description for Dumbbell Set",
+    "unit_price": "1004.49",
+    "inventory": 299,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 182,
+  "fields": {
+    "title": "Treadmill",
+    "slug": "treadmill-182",
+    "description": "Dummy description for Treadmill",
+    "unit_price": "1040.89",
+    "inventory": 329,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 183,
+  "fields": {
+    "title": "Exercise Bike",
+    "slug": "exercise-bike-183",
+    "description": "Dummy description for Exercise Bike",
+    "unit_price": "1953.30",
+    "inventory": 149,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 184,
+  "fields": {
+    "title": "Resistance Bands",
+    "slug": "resistance-bands-184",
+    "description": "Dummy description for Resistance Bands",
+    "unit_price": "1369.83",
+    "inventory": 209,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      2,
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 185,
+  "fields": {
+    "title": "Skipping Rope",
+    "slug": "skipping-rope-185",
+    "description": "Dummy description for Skipping Rope",
+    "unit_price": "1238.90",
+    "inventory": 314,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 186,
+  "fields": {
+    "title": "Foam Roller",
+    "slug": "foam-roller-186",
+    "description": "Dummy description for Foam Roller",
+    "unit_price": "629.77",
+    "inventory": 221,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 187,
+  "fields": {
+    "title": "Sports Bottle",
+    "slug": "sports-bottle-187",
+    "description": "Dummy description for Sports Bottle",
+    "unit_price": "553.22",
+    "inventory": 183,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 188,
+  "fields": {
+    "title": "Gym Bag",
+    "slug": "gym-bag-188",
+    "description": "Dummy description for Gym Bag",
+    "unit_price": "1179.13",
+    "inventory": 70,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 189,
+  "fields": {
+    "title": "Smart Scale",
+    "slug": "smart-scale-189",
+    "description": "Dummy description for Smart Scale",
+    "unit_price": "1125.30",
+    "inventory": 78,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 190,
+  "fields": {
+    "title": "Pull-up Bar",
+    "slug": "pull-up-bar-190",
+    "description": "Dummy description for Pull-up Bar",
+    "unit_price": "1681.95",
+    "inventory": 352,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      4
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 191,
+  "fields": {
+    "title": "Massage Gun",
+    "slug": "massage-gun-191",
+    "description": "Dummy description for Massage Gun",
+    "unit_price": "1154.84",
+    "inventory": 66,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 192,
+  "fields": {
+    "title": "Cricket Bat",
+    "slug": "cricket-bat-192",
+    "description": "Dummy description for Cricket Bat",
+    "unit_price": "1868.94",
+    "inventory": 294,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 193,
+  "fields": {
+    "title": "Football",
+    "slug": "football-193",
+    "description": "Dummy description for Football",
+    "unit_price": "231.36",
+    "inventory": 32,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 194,
+  "fields": {
+    "title": "Basketball",
+    "slug": "basketball-194",
+    "description": "Dummy description for Basketball",
+    "unit_price": "180.84",
+    "inventory": 175,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      1,
+      2
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 195,
+  "fields": {
+    "title": "Badminton Racket",
+    "slug": "badminton-racket-195",
+    "description": "Dummy description for Badminton Racket",
+    "unit_price": "217.89",
+    "inventory": 492,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": []
+  }
+},
+{
+  "model": "store.product",
+  "pk": 196,
+  "fields": {
+    "title": "Tennis Racket",
+    "slug": "tennis-racket-196",
+    "description": "Dummy description for Tennis Racket",
+    "unit_price": "792.03",
+    "inventory": 263,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 197,
+  "fields": {
+    "title": "Golf Clubs",
+    "slug": "golf-clubs-197",
+    "description": "Dummy description for Golf Clubs",
+    "unit_price": "1304.92",
+    "inventory": 240,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      5
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 198,
+  "fields": {
+    "title": "Hiking Backpack",
+    "slug": "hiking-backpack-198",
+    "description": "Dummy description for Hiking Backpack",
+    "unit_price": "1508.70",
+    "inventory": 298,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": [
+      2,
+      3
+    ]
+  }
+},
+{
+  "model": "store.product",
+  "pk": 199,
+  "fields": {
+    "title": "Camping Tent",
+    "slug": "camping-tent-199",
+    "description": "Dummy description for Camping Tent",
+    "unit_price": "783.13",
+    "inventory": 490,
+    "last_update": "2025-11-24T17:24:11.710Z",
+    "collection": 10,
+    "promotions": []
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 1,
+  "fields": {
+    "title": "Electronics",
+    "featured_product": 1
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 2,
+  "fields": {
+    "title": "Smartphones",
+    "featured_product": 21
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 3,
+  "fields": {
+    "title": "Laptops",
+    "featured_product": 41
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 4,
+  "fields": {
+    "title": "Tablets",
+    "featured_product": 61
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 5,
+  "fields": {
+    "title": "Accessories",
+    "featured_product": 81
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 6,
+  "fields": {
+    "title": "Home Appliances",
+    "featured_product": 101
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 7,
+  "fields": {
+    "title": "Clothing",
+    "featured_product": 120
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 8,
+  "fields": {
+    "title": "Footwear",
+    "featured_product": 140
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 9,
+  "fields": {
+    "title": "Books",
+    "featured_product": 160
+  }
+},
+{
+  "model": "store.collection",
+  "pk": 10,
+  "fields": {
+    "title": "Sports & Fitness",
+    "featured_product": 180
+  }
+}
+]
